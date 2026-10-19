@@ -1,0 +1,11 @@
+{
+  "org": "dynaconf",
+  "repo": "dynaconf",
+  "versions": [
+    {
+      "commit": "455ee38569d76cd3707c73209b660cf60bd97b29",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:49:55.429519+00:00"
+    }
+  ]
+}
