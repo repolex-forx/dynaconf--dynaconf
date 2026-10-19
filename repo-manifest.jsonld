@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/dynaconf/dynaconf/commit/455ee38569d76cd3707c73209b660cf60bd97b29",
       "git:hexsha": "455ee38569d76cd3707c73209b660cf60bd97b29",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:49:55.428576+00:00"
     },
     {
       "@id": "https://repolex.ai/r/dynaconf/dynaconf/commit/06277bb88bbe5f0d2177c55bab81962640cbe929",
